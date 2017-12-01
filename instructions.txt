@@ -1,0 +1,25 @@
+The file data.csv contains several columns of information for your analysis. The data are synthetic but were constructed to mimic data that we observe from real-world satellite images.
+
+The car.count column shows the number of cars observed in a parking lot for a retail location like a WalMart or Home Depot. The weather and cloud.indicator columns tell something about whether the parking lot was visible each day.
+
+We would like you to do some exploration of the data, fit some simple models, and summarize what you find, with the goal of both describing the data included and being able to forecast future values. We have in mind this should take no more than a couple of hours.
+
+We are interested to know what you find, but also how you go about finding it. What process? What methods? What intuitions did you use to guide your investigation? Why did you do "this" or "that."
+
+*Please produce some output including plots and other results to explain what you find and how you did it. Don't worry too much about making the output and plots pretty -- well organized is good enough.
+
+Please use any analysis tools and methods that you wish for this project as long as you can explain what each is doing and why you chose to use it. 
+
+
+Some example questions to answer:
+
+1) Summarize in a qualitative way what you see in the data when you first look it over. What does this suggest for your "plan of attack" for your analysis? What techniques might be appropriate and useful?
+
+2) How would you characterize your findings quantitatively?
+
+3) What additional analysis might be useful if you had a whole day to work on the problem?
+
+
+
+
+Our team will review your work and get back to you. We may ask to schedule a follow-up call if we would like to further review your work with you on a video call.
